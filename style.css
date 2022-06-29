@@ -1,0 +1,29 @@
+img {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: wheat;
+    background-color: rgb(24, 24, 24);
+    margin: auto;
+    width: 50%;
+}
+
+li {
+    margin-top: 10px;
+}
+
+p, h1, h2 {
+    text-align: center;
+}
+
+h1, h2 {
+    border: 3px solid wheat;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
